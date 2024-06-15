@@ -88,6 +88,9 @@
   <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
     <img src="https://img.icons8.com/color/452/microsoft-sql-server.png" alt="sqlserver" width="40" height="40"/>
   </a>
+   <a href="https://firebase.google.com/" target="_blank">
+    <img src="PATH_TO_FIREBASE_ICON" alt="firebase" width="40" height="40"/>
+  </a>
 </p>
 
 <details>
