@@ -5,15 +5,15 @@
 
 <p align="center"> <img src="dev-working.gif" alt="MahbubDev"/> </p>
 
-- 🔭 I’m currently working on **Web Development**
+- 🔭 I’m currently working on **Software Developer**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **VueJs,AngularJs**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
 - 💬 Ask me about **Anything**
 
-- 📫 How to reach me **MahbubBengali@gmail.com**
+- 📫 How to reach me **Arabizahir@gmail.com**
 
 - ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
 
