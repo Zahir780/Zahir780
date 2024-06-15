@@ -59,7 +59,7 @@
 </details>
 <details>
 <summary>GitHub Stars</summary>
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api?username=NoobMahbub&show_icons=true&locale=en" alt="GitHub Stars" /></p>
+<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api?username=Zahir780&show_icons=true&locale=en" alt="GitHub Stars" /></p>
 </details>
 
 
@@ -108,10 +108,8 @@
 
  
 
-[website]: https://TechHelpBD.com
+
 [facebook]: https://www.facebook.com/profile.php?id=100005917121171
 [twitter]: https://twitter.com/mahbubdev
-[youtube]: https://youtube.com/TechHelpBangladesh
-[instagram]: https://instagram.com/mahbubdev/
-[linkedin]: https://linkedin.com/in/mahbubdev
-[telegram]: https://t.me/TechHelpBangladesh
+[linkedin]:https://www.linkedin.com/in/md-zahirul-islam-5ab7a916a/
+
