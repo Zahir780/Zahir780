@@ -114,6 +114,6 @@
 
 
 [facebook]: https://www.facebook.com/profile.php?id=100005917121171
-[twitter]: https://twitter.com/mahbubdev
+[twitter]:https://x.com/zahir707070
 [linkedin]:https://www.linkedin.com/in/md-zahirul-islam-5ab7a916a/
 
