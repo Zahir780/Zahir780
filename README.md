@@ -93,7 +93,7 @@
 <details>
 <summary>Top Languages</summary>
 
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=NoobMahbub&show_icons=true&locale=en&layout=compact" alt="Top Languages" loading="eager" /></p>
+<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zahir780&show_icons=true&locale=en&layout=compact" alt="Top Languages" loading="eager" /></p>
 
 </details>
 <details>
