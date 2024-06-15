@@ -102,36 +102,8 @@
 </details>
 
 
-<h3>⚡ Recent GitHub Activity</h3>
 
 
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#832](https://github.com/joltup/rn-fetch-blob/issues/832#issuecomment-2002418023) in [joltup/rn-fetch-blob](https://github.com/joltup/rn-fetch-blob)
-2. 🗣 Commented on [#6665](https://github.com/expo/expo/issues/6665#issuecomment-2002363514) in [expo/expo](https://github.com/expo/expo)
-3. 🗣 Commented on [#1374](https://github.com/react-native-webview/react-native-webview/issues/1374#issuecomment-2002363079) in [react-native-webview/react-native-webview](https://github.com/react-native-webview/react-native-webview)
-4. 🗣 Commented on [#21198](https://github.com/expo/expo/issues/21198#issuecomment-1997944746) in [expo/expo](https://github.com/expo/expo)
-5. 🗣 Commented on [#4506](https://github.com/software-mansion/react-native-reanimated/issues/4506#issuecomment-1986828131) in [software-mansion/react-native-reanimated](https://github.com/software-mansion/react-native-reanimated)
-<!--END_SECTION:activity-->
-
-
-
-
-
-
-
-  <h2>📺 Latest YouTube Videos</h2>
-
-
-  <!-- prettier-ignore-start -->
-<!-- BEGIN YOUTUBE-CARDS -->
-[![Facebook Group Link Not Working Problem Fixed! | FB Link Not Clickable | URL Highlight Problem](https://ytcards.demolab.com/?id=sJKKSoX52XU&title=Facebook+Group+Link+Not+Working+Problem+Fixed%21+%7C+FB+Link+Not+Clickable+%7C+URL+Highlight+Problem&lang=en&timestamp=1713244234&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Facebook Group Link Not Working Problem Fixed! | FB Link Not Clickable | URL Highlight Problem")](https://www.youtube.com/watch?v=sJKKSoX52XU)
-[![Sub Urban - Cradles (Instrumental)[Copyright Free]](https://ytcards.demolab.com/?id=AONhCgmpXmM&title=Sub+Urban+-+Cradles+%28Instrumental%29%5BCopyright+Free%5D&lang=en&timestamp=1712242822&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Sub Urban - Cradles (Instrumental)[Copyright Free]")](https://www.youtube.com/watch?v=AONhCgmpXmM)
-[![NEFFEX - Cold ❄️(Instrumental)[Copyright Free]](https://ytcards.demolab.com/?id=JWzL3LWYvcw&title=NEFFEX+-+Cold+%E2%9D%84%EF%B8%8F%28Instrumental%29%5BCopyright+Free%5D&lang=en&timestamp=1711465250&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "NEFFEX - Cold ❄️(Instrumental)[Copyright Free]")](https://www.youtube.com/watch?v=JWzL3LWYvcw)
-[![How to Update All Drivers in One Click | Update All Windows Drivers at Once | IObit Driver Booster](https://ytcards.demolab.com/?id=NdexsNt2DZs&title=How+to+Update+All+Drivers+in+One+Click+%7C+Update+All+Windows+Drivers+at+Once+%7C+IObit+Driver+Booster&lang=en&timestamp=1711286080&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "How to Update All Drivers in One Click | Update All Windows Drivers at Once | IObit Driver Booster")](https://www.youtube.com/watch?v=NdexsNt2DZs)
-[![Something went wrong Expo Go React Native Error Fixed | Network response time out | Expo not working](https://ytcards.demolab.com/?id=tSP0VECZ61k&title=Something+went+wrong+Expo+Go+React+Native+Error+Fixed+%7C+Network+response+time+out+%7C+Expo+not+working&lang=en&timestamp=1710316253&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Something went wrong Expo Go React Native Error Fixed | Network response time out | Expo not working")](https://www.youtube.com/watch?v=tSP0VECZ61k)
-[![Canva starfall-animation npm package demo](https://ytcards.demolab.com/?id=R6Ai9tFk5YY&title=Canva+starfall-animation+npm+package+demo&lang=en&timestamp=1704889504&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Canva starfall-animation npm package demo")](https://www.youtube.com/watch?v=R6Ai9tFk5YY)
-<!-- END YOUTUBE-CARDS -->
-  <!-- prettier-ignore-end -->
 
 <div align="center">
 
