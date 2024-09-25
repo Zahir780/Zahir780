@@ -38,7 +38,7 @@
 ![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
 ![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp; <!-- Add Vue.js badge -->
-![AngularJS](https://img.shields.io/badge/-AngularJS-05122A?style=flat&logo=angularjs)&nbsp; <!-- Add AngularJS badge -->
+ <!-- Add AngularJS badge -->
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=CC2927) <!-- Add SQL Server badge -->
 <br />
 
