@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Software Developer**
 
-- 🌱 I’m currently learning **VueJs,AngularJs**
+- 🌱 I’m currently learning **Flutter(flutter Run 😂)**
 
 - 👯 I’m looking to collaborate on **Open Source**
 
