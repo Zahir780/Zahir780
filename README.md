@@ -1,12 +1,18 @@
 <h1 align="center">Hi 👋, I'm MD Zahirul Islam</h1>
 
 <p align="center">
-  <strong>💻 Full-Stack .NET Developer &nbsp;•&nbsp; 📱 Flutter Developer &nbsp;•&nbsp; 🛒 E-commerce Developer</strong>
+  <strong>
+    💻 Full-Stack .NET Developer
+    &nbsp;•&nbsp;
+    📱 Flutter Developer
+    &nbsp;•&nbsp;
+    🛒 E-commerce App Developer
+  </strong>
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Full-Stack+.NET+Developer;Building+E-commerce+Applications+with+Flutter;ASP.NET+Core+%7C+SQL+Server+%7C+MySQL;Vue.js+%7C+JavaScript+%7C+REST+API;Flutter+%7C+Dart+%7C+Firebase;Hospital+ERP+Software+Developer;Always+Learning+%26+Building"
+    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Full-Stack+.NET+Developer;Building+E-commerce+Applications+with+Flutter;ASP.NET+Core+%7C+C%23+%7C+SQL+Server;MySQL+%7C+Vue.js+%7C+REST+API;Flutter+%7C+Dart+%7C+Firebase;Hospital+ERP+Software+Developer;Always+Learning+%26+Building"
     alt="Typing SVG"
   />
 </p>
@@ -25,17 +31,18 @@ business applications, healthcare ERP systems, and web-based software.
 Currently, I'm expanding my development journey into **Flutter Mobile Development**
 while building a real-world **E-commerce Application**.
 
-* 🔭 Currently working as a **Software Developer**
-* 📱 Currently building an **E-commerce Mobile Application with Flutter**
-* 💻 Strong experience with **ASP.NET Core & C#**
-* 🗄️ Experienced with **SQL Server & MySQL**
-* 🌐 Experienced with **Vue.js, JavaScript, jQuery & Bootstrap**
-* 🏥 Experienced in **Hospital Management & ERP Software**
-* 🔌 Working with **REST APIs & Backend Integration**
-* 🔥 Currently learning deeper **Flutter, Dart & Firebase**
-* 👯 Open to collaborating on **Open Source Projects**
-* 🚀 Interested in **Software Architecture, ERP & E-commerce Systems**
-* 🍪 Fun fact: **I can provide you cookies for free 😂**
+- 🔭 Currently working as a **Software Developer**
+- 📱 Currently building an **E-commerce Mobile Application with Flutter**
+- 💻 Strong experience with **ASP.NET Core & C#**
+- 🗄️ Experienced with **SQL Server & MySQL**
+- 🌐 Experienced with **Vue.js, JavaScript, jQuery & Bootstrap**
+- 🏥 Experienced in **Hospital Management & ERP Software**
+- 🔌 Working with **REST APIs & Backend Integration**
+- 🔥 Currently learning **Flutter, Dart & Firebase**
+- 👯 Open to collaborating on **Open Source Projects**
+- 🚀 Interested in **Software Architecture, ERP & E-commerce Systems**
+- 🧠 Always exploring new technologies and real-world solutions
+- 🍪 Fun fact: **I can provide you cookies for free 😂**
 
 ---
 
@@ -44,32 +51,83 @@ while building a real-world **E-commerce Application**.
 <h2 align="center">🛒 Flutter E-commerce Application</h2>
 
 <p align="center">
-  <strong>Building a real-world mobile shopping application using Flutter</strong>
+  <strong>
+    Building a real-world mobile shopping application using Flutter
+  </strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+  <img
+    src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"
+    alt="Flutter"
+  />
+  <img
+    src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"
+    alt="Dart"
+  />
+  <img
+    src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"
+    alt="Firebase"
+  />
+  <img
+    src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"
+    alt="REST API"
+  />
 </p>
 
-### 🛍️ Main Features
+### 🛍️ Application Features
 
-* 👤 User Authentication
-* 🏠 Customer Home & Product Browsing
-* 📦 Product & Category Management
-* 🔎 Product Search
-* 🛒 Shopping Cart
-* ❤️ Wishlist
-* 📋 Order Management
-* 💳 Payment Integration
-* 📍 Delivery Management
-* 🔔 Notifications
-* 🔥 Firebase Integration
-* 🌐 REST API Integration
+- 👤 User Authentication
+- 🏠 Customer Home
+- 📦 Product Management
+- 🗂️ Category Management
+- 🔎 Product Search
+- 🛒 Shopping Cart
+- ❤️ Wishlist
+- 📋 Order Management
+- 💳 Payment Integration
+- 📍 Delivery Management
+- 🔔 Notifications
+- 🔥 Firebase Integration
+- 🌐 REST API Integration
 
 > 🚧 **Currently under active development**
+
+---
+
+# 📱 Currently Building with Flutter
+
+<p align="center">
+  <img
+    src="https://skillicons.dev/icons?i=flutter,dart,firebase"
+    alt="Flutter Dart Firebase"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"
+    alt="Flutter"
+  />
+  <img
+    src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"
+    alt="Dart"
+  />
+  <img
+    src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"
+    alt="Firebase"
+  />
+</p>
+
+<p align="center">
+  <strong>
+    🚀 Currently developing a complete E-commerce Mobile Application
+  </strong>
+</p>
+
+<p align="center">
+  Flutter &nbsp;•&nbsp; Dart &nbsp;•&nbsp; Firebase &nbsp;•&nbsp; REST API
+</p>
 
 ---
 
@@ -78,14 +136,29 @@ while building a real-world **E-commerce Application**.
 ## 💻 Backend & Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs" alt=".NET and C#" />
+  <img
+    src="https://skillicons.dev/icons?i=dotnet,cs"
+    alt=".NET and C#"
+  />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
-  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core"/>
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
+  <img
+    src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"
+    alt="ASP.NET Core"
+  />
+  <img
+    src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"
+    alt="C#"
+  />
+  <img
+    src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"
+    alt="Entity Framework Core"
+  />
+  <img
+    src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"
+    alt="REST API"
+  />
 </p>
 
 ---
@@ -93,14 +166,33 @@ while building a real-world **E-commerce Application**.
 ## 🌐 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,vue,vite,tailwind" alt="Frontend Technologies" />
+  <img
+    src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,vue,vite,tailwind"
+    alt="Frontend Technologies"
+  />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
+  <img
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+    alt="JavaScript"
+  />
+  <img
+    src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"
+    alt="Vue.js"
+  />
+  <img
+    src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"
+    alt="jQuery"
+  />
+  <img
+    src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"
+    alt="Bootstrap"
+  />
+  <img
+    src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"
+    alt="Tailwind CSS"
+  />
 </p>
 
 ---
@@ -108,13 +200,25 @@ while building a real-world **E-commerce Application**.
 ## 📱 Mobile Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" alt="Flutter Dart Firebase" />
+  <img
+    src="https://skillicons.dev/icons?i=flutter,dart,firebase"
+    alt="Flutter Dart Firebase"
+  />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img
+    src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"
+    alt="Flutter"
+  />
+  <img
+    src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"
+    alt="Dart"
+  />
+  <img
+    src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"
+    alt="Firebase"
+  />
 </p>
 
 ---
@@ -123,43 +227,61 @@ while building a real-world **E-commerce Application**.
 
 <p align="left">
 
-<img
-src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"
-alt="Microsoft SQL Server"
-/>
+  <img
+    src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"
+    alt="Microsoft SQL Server"
+  />
 
-<img
-src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
-alt="MySQL"
-/>
+  <img
+    src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
+    alt="MySQL"
+  />
 
 </p>
 
 ### Database Experience
 
-* 🗄️ Microsoft SQL Server
-* 🐬 MySQL
-* 🔗 Entity Framework Core
-* ⚡ Query Optimization
-* 📊 Stored Procedures
-* 🔍 Complex Queries & Reporting
-* 🔐 Database Design
-* 🔄 Transaction Management
+- 🗄️ Microsoft SQL Server
+- 🐬 MySQL
+- 🔗 Entity Framework Core
+- ⚡ Query Optimization
+- 📊 Stored Procedures
+- 🔍 Complex Queries & Reporting
+- 🔐 Database Design
+- 🔄 Transaction Management
 
 ---
 
 ## 🔧 Development Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" alt="Development Tools" />
+  <img
+    src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman"
+    alt="Development Tools"
+  />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img
+    src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"
+    alt="Visual Studio"
+  />
+  <img
+    src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"
+    alt="VS Code"
+  />
+  <img
+    src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
+    alt="Git"
+  />
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
+  <img
+    src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
+    alt="Postman"
+  />
 </p>
 
 ---
@@ -171,46 +293,45 @@ business management and enterprise software systems**.
 
 ## 🏥 Hospital Management & ERP
 
-* 🧪 Laboratory Management System
-* 💰 Billing & Financial Management
-* 👨‍⚕️ Doctor Management
-* 👤 Patient Management
-* 🏥 OPD / IPD Management
-* 🛏️ Bed & Cabin Management
-* 💳 Payment & Money Receipt
-* 🧾 Invoice & Collection Management
-* 📊 Reporting & Analytics
-* 🔐 User & Permission Management
-* 🗃️ SQL Server Database Management
-* 🔄 Transaction & Workflow Management
+- 🧪 Laboratory Management System
+- 💰 Billing & Financial Management
+- 👨‍⚕️ Doctor Management
+- 👤 Patient Management
+- 🏥 OPD / IPD Management
+- 🛏️ Bed & Cabin Management
+- 💳 Payment & Money Receipt
+- 🧾 Invoice & Collection Management
+- 📊 Reporting & Analytics
+- 🔐 User & Permission Management
+- 🗃️ SQL Server Database Management
+- 🔄 Transaction & Workflow Management
 
 ## 💼 Business Applications
 
-* 👨‍💼 HR Management
-* 💰 Payroll Management
-* 🏭 Production Management
-* 📦 Inventory Management
-* 📊 Business Reports
-* 💵 Financial & Collection Modules
-* 🔄 Enterprise Transaction Processing
+- 👨‍💼 HR Management
+- 💰 Payroll Management
+- 🏭 Production Management
+- 📦 Inventory Management
+- 📊 Business Reports
+- 💵 Financial & Collection Modules
+- 🔄 Enterprise Transaction Processing
 
 ---
 
-# 🧠 Core Skills
+# 🧠 Core Expertise
 
-```text
-ASP.NET Core       ████████████████████  95%
-C#                 ███████████████████░  90%
-SQL Server         ████████████████████  95%
-REST API           █████████████████░░░  85%
-MySQL              ███████████████░░░░░  75%
-Vue.js             ████████████████░░░░  80%
-JavaScript         ████████████████░░░░  80%
-jQuery             ████████████████░░░░  80%
-Flutter             ██████████████░░░░░░  70%
-Dart                █████████████░░░░░░░  65%
-Firebase            ████████████░░░░░░░░  60%
-```
+| Area | Technologies |
+|---|---|
+| 💻 Backend | ASP.NET Core, C# |
+| 🌐 Frontend | Vue.js, JavaScript, jQuery, Bootstrap |
+| 📱 Mobile | Flutter, Dart |
+| 🔥 Cloud / Services | Firebase |
+| 🌐 API | REST API |
+| 🗄️ Database | SQL Server, MySQL |
+| 🔗 ORM | Entity Framework Core |
+| 🏥 Domain | Hospital ERP & Healthcare Software |
+| 🛒 Application | E-commerce Systems |
+| 🔧 Tools | Git, GitHub, Visual Studio, VS Code, Postman |
 
 ---
 
@@ -218,14 +339,14 @@ Firebase            ████████████░░░░░░░░
 
 <p align="center">
 
-| 🚀 Technology   | 🎯 Focus                              |
-| --------------- | ------------------------------------- |
-| 📱 Flutter      | Mobile Application Development        |
-| 🎯 Dart         | Modern Mobile Development             |
-| 🔥 Firebase     | Authentication & Cloud Services       |
-| 🌐 REST API     | Mobile & Backend Integration          |
-| 🛒 E-commerce   | Production Application Development    |
-| ☁️ Cloud        | Deployment & Scalable Systems         |
+| 🚀 Technology | 🎯 Focus |
+|---|---|
+| 📱 Flutter | Mobile Application Development |
+| 🎯 Dart | Flutter Programming |
+| 🔥 Firebase | Authentication & Cloud Services |
+| 🌐 REST API | Mobile & Backend Integration |
+| 🛒 E-commerce | Production Application Development |
+| ☁️ Cloud | Deployment & Scalable Systems |
 | 🧠 Architecture | Software Design & System Architecture |
 
 </p>
@@ -234,15 +355,15 @@ Firebase            ████████████░░░░░░░░
 
 # 🎯 2026 Goals
 
-* 📱 Complete and launch a **Flutter E-commerce Application**
-* 🚀 Become stronger in **Flutter & Dart**
-* 🔥 Improve **Firebase & Cloud** skills
-* 🌐 Build scalable **ASP.NET Core REST APIs**
-* 🗄️ Improve advanced **SQL Server & MySQL** skills
-* 🧠 Learn **Software Architecture & System Design**
-* ☁️ Improve **Cloud & DevOps** knowledge
-* 🌍 Contribute to **Open Source**
-* 💼 Build more **production-ready applications**
+- 📱 Complete and launch a **Flutter E-commerce Application**
+- 🚀 Become stronger in **Flutter & Dart**
+- 🔥 Improve **Firebase & Cloud** skills
+- 🌐 Build scalable **ASP.NET Core REST APIs**
+- 🗄️ Improve advanced **SQL Server & MySQL** skills
+- 🧠 Learn **Software Architecture & System Design**
+- ☁️ Improve **Cloud & DevOps** knowledge
+- 🌍 Contribute to **Open Source**
+- 💼 Build more **production-ready applications**
 
 ---
 
@@ -254,6 +375,7 @@ Firebase            ████████████░░░░░░░░
     alt="GitHub Stats"
     width="49%"
   />
+
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zahir780&theme=github_dark&animation=load"
     alt="Top Languages"
@@ -314,10 +436,10 @@ Firebase            ████████████░░░░░░░░
 # 💡 Developer Philosophy
 
 <p align="center">
-  <i>“Build something useful. Keep learning. Improve every day.”</i>
+  <i>
+    “Build something useful. Keep learning. Improve every day.”
+  </i>
 </p>
-
----
 
 <p align="center">
   <img
