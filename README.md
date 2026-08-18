@@ -1,122 +1,171 @@
-<h3 align="center"><img src="dancing-cat.gif" width="30"/></h3>
-<h2 align=center>
-  <a href="https://facebook.com/zahirkhan"><img src="http://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7000&color=white&center=true&width=435&lines=I+am+MD+Zahirul+islam;A+Fullstack+Web+and+.NET+Developer;A+Content+Creator;Always+Exploring+New+Technologies" alt="Typing SVG" /></a>
-</h2>
+<h1 align="center">Hi 👋, I'm MD Zahirul Islam</h1>
 
-<p align="center"> <img src="dev-working.gif" alt="MahbubDev"/> </p>
+<h3 align="center">
+💻 Full-Stack .NET Developer | 🏥 ERP Developer | 📱 Flutter Learner | 🚀 Technology Explorer
+</h3>
 
-- 🔭 I’m currently working on **Software Developer**
-
-- 🌱 I’m currently learning **Flutter(flutter Run 😂)**
-
-- 👯 I’m looking to collaborate on **Open Source**
-
-- 💬 Ask me about **Anything**
-
-- 📫 How to reach me **arabizahir@gmail.com**
-
-- ⚡ Fun fact **I can provide you cookies for free to eat 🍪😂**
-
-### Connect with me:
-
-[<img align="left" alt="Kazi Mahbubur Rahman | YouTube" width="22px" src="https://cdn-icons-png.flaticon.com/512/124/124010.png" />][facebook]
-[<img align="left" alt="Kazi Mahbubur Rahman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-
-<br />
-
-### 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Illustrator](https://img.shields.io/badge/-Illustrator-05122A?style=flat&logo=adobe-illustrator)&nbsp;
-![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=flat&logo=adobe-photoshop)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp; <!-- Add Vue.js badge -->
- <!-- Add AngularJS badge -->
-![SQL Server](https://img.shields.io/badge/-SQL%20Server-05122A?style=flat&logo=microsoft-sql-server&logoColor=CC2927) <!-- Add SQL Server badge -->
-<br />
-
-
- 
-  <h2>📈 Stats and Activity</h2>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://getbootstrap.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://laravel.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <!-- Add Vue.js icon -->
-  <a href="https://vuejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-  <!-- Add AngularJS icon -->
-  <a href="https://angularjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/>
-  </a>
-  <!-- Add SQL Server icon -->
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank">
-    <img src="https://img.icons8.com/color/452/microsoft-sql-server.png" alt="sqlserver" width="40" height="40"/>
-  </a>
-    <a href="https://firebase.google.com/" target="_blank">
-    <img src="PATH_TO_FIREBASE_ICON" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/>
-</a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+.NET+Developer;ASP.NET+Core+%7C+SQL+Server+%7C+Vue.js;Hospital+ERP+Software+Developer;Currently+Learning+Flutter;Always+Exploring+New+Technologies" alt="Typing SVG" />
 </p>
 
-<details>
-<summary>Top Languages</summary>
+<p align="center">
+  <img src="dev-working.gif" width="500" alt="Developer Working" />
+</p>
 
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Zahir780&show_icons=true&locale=en&layout=compact" alt="Top Languages" loading="eager" /></p>
+---
 
-</details>
-<details>
-<summary>GitHub Stars</summary>
-<p><img width="494" align="center" src="https://github-readme-stats.vercel.app/api?username=Zahir780&show_icons=true&locale=en" alt="GitHub Stars" /></p>
-</details>
+## 👨‍💻 About Me
 
+* 🔭 Currently working as a **Software Developer**
+* 💻 Specialized in **ASP.NET Core & SQL Server**
+* 🏥 Experienced in developing **Hospital Management & ERP Software**
+* 🌱 Currently learning **Flutter & Mobile App Development**
+* ⚡ Interested in **Full-Stack Development, ERP Systems & Software Architecture**
+* 👯 Open to collaborating on **Open Source Projects**
+* 💬 Ask me about **.NET, SQL Server, Vue.js, JavaScript & ERP Development**
+* 🎯 Always learning and exploring **new technologies**
+* 🍪 Fun fact: **I can provide you cookies for free 😂**
 
-<br/>
-<div>
-  
+---
 
+## 🛠️ Tech Stack
 
- 
+### 💻 Backend & Frameworks
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,php,laravel" />
+</p>
 
-[facebook]: https://www.facebook.com/profile.php?id=100005917121171
-[twitter]:https://x.com/zahir707070
-[linkedin]:https://www.linkedin.com/in/md-zahirul-islam-5ab7a916a/
+### 🎨 Frontend
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,vue,vite,tailwind" />
+</p>
+
+### 🗄️ Database
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="48" height="48" alt="SQL Server"/>
+</p>
+
+### 📱 Mobile Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+</p>
+
+### 🔧 Tools & Platforms
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
+</p>
+
+---
+
+## 🏥 What I Work With
+
+I have hands-on experience building and maintaining **business and healthcare software systems**, including:
+
+* 🏥 Hospital Management Systems
+* 🧪 Laboratory Management
+* 💰 Billing & Financial Modules
+* 👨‍⚕️ Doctor & Patient Management
+* 🛏️ OPD / IPD Management
+* 📊 Reporting & Data Analytics
+* 👨‍💼 HR & Payroll Systems
+* 🏭 Production Management
+* 🔐 Role-Based Application Modules
+* 🗃️ SQL Server Database Design & Optimization
+
+---
+
+## 🚀 Current Focus
+
+```text
+ASP.NET Core       ████████████████████░  95%
+SQL Server         ████████████████████░  95%
+Vue.js             ████████████████░░░░░  80%
+JavaScript         ████████████████░░░░░  80%
+jQuery             ████████████████░░░░░  80%
+Flutter            ████████░░░░░░░░░░░░  40%
+Firebase           ███████░░░░░░░░░░░░░  35%
+```
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Zahir780&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahir780&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Zahir780&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Zahir780&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+
+<a href="https://www.facebook.com/profile.php?id=100005917121171" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+<a href="https://x.com/zahir707070" target="_blank">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/md-zahirul-islam-5ab7a916a/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:arabizahir@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/Zahir780" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+* 🚀 Build scalable **ASP.NET Core applications**
+* 📱 Become proficient in **Flutter**
+* ☁️ Improve **Cloud & DevOps** skills
+* 🧠 Learn more about **Software Architecture**
+* 🌍 Contribute to **Open Source**
+* 💼 Build production-ready projects for my portfolio
+
+---
+
+## 💡 Developer Philosophy
+
+> **"Build something useful. Keep learning. Improve every day."**
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Zahir780&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+<p align="center">
+  ⭐ If you find my projects useful, consider giving them a star!
+</p>
