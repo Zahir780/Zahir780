@@ -39,19 +39,19 @@ while building a real-world **E-commerce Application**.
 
 ---
 
-## 🚀 Current Project
+# 🚀 Current Project
 
-<h3 align="center">🛒 Flutter E-commerce Application</h3>
+<h2 align="center">🛒 Flutter E-commerce Application</h2>
 
 <p align="center">
   <strong>Building a real-world mobile shopping application using Flutter</strong>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
 </p>
 
 ### 🛍️ Main Features
@@ -78,14 +78,14 @@ while building a real-world **E-commerce Application**.
 ## 💻 Backend & Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs" alt=".NET and C#" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
-  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET Core"/>
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#"/>
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="Entity Framework Core"/>
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST API"/>
 </p>
 
 ---
@@ -93,14 +93,14 @@ while building a real-world **E-commerce Application**.
 ## 🌐 Frontend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,vue,vite,tailwind" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,vue,vite,tailwind" alt="Frontend Technologies" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js"/>
+  <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" alt="jQuery"/>
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
 </p>
 
 ---
@@ -108,13 +108,13 @@ while building a real-world **E-commerce Application**.
 ## 📱 Mobile Development
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" alt="Flutter Dart Firebase" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
 </p>
 
 ---
@@ -124,20 +124,20 @@ while building a real-world **E-commerce Application**.
 <p align="left">
 
 <img
- src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"
- alt="Microsoft SQL Server"
+src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"
+alt="Microsoft SQL Server"
 />
 
 <img
- src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
- alt="MySQL"
+src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
+alt="MySQL"
 />
 
 </p>
 
 ### Database Experience
 
-* 🗄️ SQL Server
+* 🗄️ Microsoft SQL Server
 * 🐬 MySQL
 * 🔗 Entity Framework Core
 * ⚡ Query Optimization
@@ -151,15 +151,15 @@ while building a real-world **E-commerce Application**.
 ## 🔧 Development Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman" alt="Development Tools" />
 </p>
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white" alt="Visual Studio"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
 </p>
 
 ---
@@ -202,8 +202,8 @@ business management and enterprise software systems**.
 ASP.NET Core       ████████████████████  95%
 C#                 ███████████████████░  90%
 SQL Server         ████████████████████  95%
-MySQL              ███████████████░░░░░  75%
 REST API           █████████████████░░░  85%
+MySQL              ███████████████░░░░░  75%
 Vue.js             ████████████████░░░░  80%
 JavaScript         ████████████████░░░░  80%
 jQuery             ████████████████░░░░  80%
@@ -250,15 +250,14 @@ Firebase            ████████████░░░░░░░░
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Zahir780&show_icons=true&theme=tokyonight&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zahir780&theme=github_dark&animation=load"
     alt="GitHub Stats"
+    width="49%"
   />
-</p>
-
-<p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahir780&layout=compact&theme=tokyonight&hide_border=true"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zahir780&theme=github_dark&animation=load"
     alt="Top Languages"
+    width="49%"
   />
 </p>
 
@@ -268,8 +267,9 @@ Firebase            ████████████░░░░░░░░
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com/?user=Zahir780&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com/?user=Zahir780&theme=dark&hide_border=true"
     alt="GitHub Streak"
+    width="600"
   />
 </p>
 
@@ -279,24 +279,32 @@ Firebase            ████████████░░░░░░░░
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/md-zahirul-islam-5ab7a916a/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
 <a href="https://www.facebook.com/profile.php?id=100005917121171">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"
+    alt="Facebook"
+  />
 </a>
 
 <a href="https://x.com/zahir707070">
-  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"
+    alt="X"
+  />
 </a>
 
 <a href="mailto:arabizahir@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Gmail"
+  />
 </a>
 
 <a href="https://github.com/Zahir780">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img
+    src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub"
+  />
 </a>
 
 </p>
@@ -309,8 +317,13 @@ Firebase            ████████████░░░░░░░░
   <i>“Build something useful. Keep learning. Improve every day.”</i>
 </p>
 
+---
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Zahir780&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=Zahir780&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
 </p>
 
 <p align="center">
