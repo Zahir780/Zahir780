@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm MD Zahirul Islam</h1>
 
 <h3 align="center">
-💻 Full-Stack .NET Developer | 🏥 ERP Developer | 📱 Flutter Learner | 🚀 Technology Explorer
+💻 Full-Stack .NET Developer | 📱 Flutter Developer | 🛒 E-commerce App Developer
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+.NET+Developer;ASP.NET+Core+%7C+SQL+Server+%7C+Vue.js;Hospital+ERP+Software+Developer;Currently+Learning+Flutter;Always+Exploring+New+Technologies" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Full-Stack+.NET+Developer;Currently+Building+an+E-commerce+App+with+Flutter;ASP.NET+Core+%7C+SQL+Server+%7C+Vue.js;Flutter+%7C+Dart+%7C+Firebase;Hospital+ERP+Software+Developer;Always+Exploring+New+Technologies" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -17,14 +17,38 @@
 ## 👨‍💻 About Me
 
 * 🔭 Currently working as a **Software Developer**
-* 💻 Specialized in **ASP.NET Core & SQL Server**
+* 📱 Currently developing an **E-commerce Mobile Application with Flutter**
+* 💻 Experienced in **ASP.NET Core, SQL Server & Full-Stack Web Development**
+* 🌐 Experienced with **Vue.js, JavaScript, jQuery & Bootstrap**
 * 🏥 Experienced in developing **Hospital Management & ERP Software**
-* 🌱 Currently learning **Flutter & Mobile App Development**
-* ⚡ Interested in **Full-Stack Development, ERP Systems & Software Architecture**
+* 🌱 Currently deepening my skills in **Flutter & Mobile App Development**
+* 🔌 Working with **REST APIs, Firebase & Backend Integration**
 * 👯 Open to collaborating on **Open Source Projects**
-* 💬 Ask me about **.NET, SQL Server, Vue.js, JavaScript & ERP Development**
-* 🎯 Always learning and exploring **new technologies**
+* 💬 Ask me about **.NET, SQL Server, Vue.js, Flutter & ERP Development**
+* 🚀 Always exploring **new technologies and building real-world applications**
 * 🍪 Fun fact: **I can provide you cookies for free 😂**
+
+---
+
+## 🚀 Current Project
+
+### 🛒 Flutter E-commerce Application
+
+Currently working on a **mobile E-commerce application using Flutter**.
+
+**Technologies I'm working with:**
+
+* 📱 Flutter
+* 🎯 Dart
+* 🔥 Firebase
+* 🌐 REST API
+* 🛍️ E-commerce Features
+* 🔐 Authentication
+* 🛒 Cart & Order Management
+* 💳 Payment Integration
+* 📦 Product & Category Management
+
+> Building a complete real-world mobile shopping experience with Flutter.
 
 ---
 
@@ -33,7 +57,13 @@
 ### 💻 Backend & Frameworks
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=dotnet,cs,php,laravel" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-02569B?style=for-the-badge&logo=fastapi&logoColor=white"/>
 </p>
 
 ### 🎨 Frontend
@@ -42,17 +72,22 @@
   <img src="https://skillicons.dev/icons?i=html,css,js,jquery,bootstrap,vue,vite,tailwind" />
 </p>
 
-### 🗄️ Database
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=mysql" />
-  <img src="https://img.icons8.com/color/48/microsoft-sql-server.png" width="48" height="48" alt="SQL Server"/>
-</p>
-
 ### 📱 Mobile Development
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+</p>
+
+### 🗄️ Database
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 </p>
 
 ### 🔧 Tools & Platforms
@@ -63,33 +98,48 @@
 
 ---
 
-## 🏥 What I Work With
+## 🏥 Professional Experience
 
-I have hands-on experience building and maintaining **business and healthcare software systems**, including:
+I have hands-on experience developing and maintaining **business applications and healthcare ERP systems**.
 
-* 🏥 Hospital Management Systems
+### 🏥 Hospital Management & ERP
+
 * 🧪 Laboratory Management
 * 💰 Billing & Financial Modules
-* 👨‍⚕️ Doctor & Patient Management
-* 🛏️ OPD / IPD Management
-* 📊 Reporting & Data Analytics
-* 👨‍💼 HR & Payroll Systems
+* 👨‍⚕️ Doctor Management
+* 👨‍👩‍👧 Patient Management
+* 🏥 OPD / IPD Management
+* 🛏️ Bed & Cabin Management
+* 💳 Payment & Money Receipt
+* 📊 Reporting & Analytics
+* 🧾 Invoice & Collection Management
+* 🔐 User & Permission Management
+* 🗃️ SQL Server Database Management
+
+### 💼 Business Software
+
+* 👨‍💼 HR Management
+* 💰 Payroll & Salary Management
 * 🏭 Production Management
-* 🔐 Role-Based Application Modules
-* 🗃️ SQL Server Database Design & Optimization
+* 📦 Inventory & Stock Management
+* 📊 Business Reports
+* 🔄 Workflow & Transaction Management
 
 ---
 
-## 🚀 Current Focus
+## 📱 Currently Learning & Building
 
 ```text
-ASP.NET Core       ████████████████████░  95%
-SQL Server         ████████████████████░  95%
-Vue.js             ████████████████░░░░░  80%
-JavaScript         ████████████████░░░░░  80%
-jQuery             ████████████████░░░░░  80%
-Flutter            ████████░░░░░░░░░░░░  40%
-Firebase           ███████░░░░░░░░░░░░░  35%
+Flutter              ████████████████░░░░  80%
+Dart                 ███████████████░░░░░  75%
+Firebase             ████████████░░░░░░░░  60%
+REST API Integration █████████████████░░░  85%
+E-commerce           ███████████████░░░░░  75%
+
+ASP.NET Core         ████████████████████  95%
+SQL Server           ████████████████████  95%
+Vue.js               ████████████████░░░░  80%
+JavaScript           ████████████████░░░░  80%
 ```
 
 ---
@@ -98,6 +148,7 @@ Firebase           ███████░░░░░░░░░░░░░ 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Zahir780&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" height="180"/>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zahir780&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
 </p>
 
@@ -149,23 +200,37 @@ Firebase           ███████░░░░░░░░░░░░░ 
 
 ## 🎯 2026 Goals
 
-* 🚀 Build scalable **ASP.NET Core applications**
-* 📱 Become proficient in **Flutter**
-* ☁️ Improve **Cloud & DevOps** skills
-* 🧠 Learn more about **Software Architecture**
-* 🌍 Contribute to **Open Source**
-* 💼 Build production-ready projects for my portfolio
+* 📱 Build and launch a complete **Flutter E-commerce Application**
+* 🚀 Improve advanced **Flutter & Dart** skills
+* 🔥 Gain deeper experience with **Firebase**
+* 🌐 Build scalable **ASP.NET Core REST APIs**
+* ☁️ Improve **Cloud & DevOps** knowledge
+* 🧠 Learn more about **Software Architecture & System Design**
+* 🌍 Contribute to **Open Source Projects**
+* 💼 Build more **production-ready applications**
 
 ---
 
 ## 💡 Developer Philosophy
 
-> **"Build something useful. Keep learning. Improve every day."**
+<p align="center">
+  <i>"Build something useful. Keep learning. Improve every day."</i>
+</p>
+
+---
+
+## 👀 Profile Views
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Zahir780&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+---
+
 <p align="center">
   ⭐ If you find my projects useful, consider giving them a star!
+</p>
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
 </p>
