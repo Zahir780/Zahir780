@@ -38,7 +38,7 @@ with Flutter** while working on a real-world **E-commerce Mobile Application**.
 - 📱 Currently developing an **E-commerce Mobile Application with Flutter**
 - 💻 Experienced in **ASP.NET Core & C#**
 - 🗄️ Experienced in **Microsoft SQL Server & MySQL**
-- 🌐 Experienced in **HTML, CSS, JavaScript, jQuery, Bootstrap & Vue.js**
+- 🌐 Experienced with **HTML, CSS, JavaScript, jQuery, Bootstrap & Vue.js**
 - 📱 Currently working with **Flutter, Dart & Firebase**
 - 🔌 Working with **REST APIs & Backend Integration**
 - 🏥 Experienced in **Hospital Management & ERP Software**
@@ -202,6 +202,38 @@ with Flutter** while working on a real-world **E-commerce Mobile Application**.
 
 ---
 
+# 📱 Mobile Development
+
+<p align="left">
+
+<img
+  src="https://skillicons.dev/icons?i=flutter,dart,firebase"
+  alt="Flutter Dart Firebase"
+/>
+
+</p>
+
+<p align="left">
+
+<img
+  src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"
+  alt="Flutter"
+/>
+
+<img
+  src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"
+  alt="Dart"
+/>
+
+<img
+  src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"
+  alt="Firebase"
+/>
+
+</p>
+
+---
+
 # 🗄️ Database
 
 <p align="left">
@@ -243,41 +275,12 @@ with Flutter** while working on a real-world **E-commerce Mobile Application**.
 
 </p>
 
-<p align="left">
-
-<img
-  src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white"
-  alt="Visual Studio"
-/>
-
-<img
-  src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"
-  alt="VS Code"
-/>
-
-<img
-  src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
-  alt="Git"
-/>
-
-<img
-  src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-  alt="GitHub"
-/>
-
-<img
-  src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"
-  alt="Postman"
-/>
-
-</p>
-
 ---
 
 # 🏥 Professional Experience
 
 I have hands-on experience developing and maintaining
-**healthcare ERP, business management and enterprise software systems.**
+**Healthcare ERP, Business Management and Enterprise Software Systems.**
 
 ## 🏥 Hospital Management & ERP
 
@@ -354,17 +357,21 @@ I have hands-on experience developing and maintaining
 
 <p align="center">
 
+<a href="https://github.com/Zahir780">
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zahir780&theme=github_dark"
-  alt="GitHub Stats"
   width="49%"
+  alt="GitHub Stats"
 />
+</a>
 
+<a href="https://github.com/Zahir780">
 <img
   src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Zahir780&theme=github_dark"
-  alt="Top Languages"
   width="49%"
+  alt="Top Languages by Repo"
 />
+</a>
 
 </p>
 
@@ -374,12 +381,10 @@ I have hands-on experience developing and maintaining
 
 <p align="center">
 
-<table>
+<table align="center">
 <tr>
 
-<td align="center" width="210">
-
-<h2>📱</h2>
+<td align="center" width="180">
 
 <img
   src="https://img.icons8.com/color/96/android-os.png"
@@ -389,15 +394,19 @@ I have hands-on experience developing and maintaining
 
 <br><br>
 
-<h3>Mobile Apps</h3>
+<h3>📱 Mobile Apps</h3>
 
 <p>Application<br>Development</p>
 
 </td>
 
-<td align="center" width="210">
+<td align="center" width="55">
 
-<h2>Flutter</h2>
+<h2>→</h2>
+
+</td>
+
+<td align="center" width="180">
 
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg"
@@ -413,9 +422,13 @@ I have hands-on experience developing and maintaining
 
 </td>
 
-<td align="center" width="210">
+<td align="center" width="55">
 
-<h2>Dart</h2>
+<h2>→</h2>
+
+</td>
+
+<td align="center" width="180">
 
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg"
@@ -431,9 +444,13 @@ I have hands-on experience developing and maintaining
 
 </td>
 
-<td align="center" width="210">
+<td align="center" width="55">
 
-<h2>Firebase</h2>
+<h2>→</h2>
+
+</td>
+
+<td align="center" width="180">
 
 <img
   src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg"
@@ -479,7 +496,7 @@ I have hands-on experience developing and maintaining
 </p>
 
 <p align="center">
-  🛒 <strong>Currently Building an E-commerce Mobile Application with Flutter</strong>
+  <b>📱 Mobile Apps → Flutter → Dart → Firebase → 🛒 E-commerce</b>
 </p>
 
 ---
