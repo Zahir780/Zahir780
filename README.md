@@ -4,7 +4,7 @@
   <strong>
     💻 Full-Stack .NET Developer
     &nbsp;•&nbsp;
-    📱 Flutter Developer
+    📱 Mobile App Developer
     &nbsp;•&nbsp;
     🛒 E-commerce App Developer
   </strong>
@@ -12,7 +12,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Full-Stack+.NET+Developer;Building+E-commerce+Applications+with+Flutter;ASP.NET+Core+%7C+C%23+%7C+SQL+Server;MySQL+%7C+Vue.js+%7C+REST+API;Flutter+%7C+Dart+%7C+Firebase;Hospital+ERP+Software+Developer;Always+Learning+%26+Building"
+    src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=Full-Stack+.NET+Developer;Mobile+App+Developer+with+Flutter;Building+E-commerce+Applications+with+Flutter;ASP.NET+Core+%7C+C%23+%7C+SQL+Server;HTML+%7C+CSS+%7C+JavaScript+%7C+Vue.js;Flutter+%7C+Dart+%7C+Firebase;MySQL+%7C+REST+API;Hospital+ERP+Software+Developer;Always+Learning+%26+Building"
     alt="Typing SVG"
   />
 </p>
@@ -28,31 +28,32 @@
 I'm a **Full-Stack Software Developer** with hands-on experience building
 business applications, healthcare ERP systems, and web-based software.
 
-Currently, I'm expanding my development journey into **Flutter Mobile Development**
-while building a real-world **E-commerce Application**.
+Currently, I'm expanding my development journey into **Mobile App Development
+with Flutter** while building a real-world **E-commerce Application**.
 
 - 🔭 Currently working as a **Software Developer**
-- 📱 Currently building an **E-commerce Mobile Application with Flutter**
+- 📱 Currently developing a **Mobile E-commerce Application with Flutter**
 - 💻 Strong experience with **ASP.NET Core & C#**
 - 🗄️ Experienced with **SQL Server & MySQL**
-- 🌐 Experienced with **Vue.js, JavaScript, jQuery & Bootstrap**
-- 🏥 Experienced in **Hospital Management & ERP Software**
+- 🌐 Experienced with **HTML, CSS, JavaScript, jQuery, Bootstrap & Vue.js**
+- 📱 Currently working with **Flutter, Dart & Firebase**
 - 🔌 Working with **REST APIs & Backend Integration**
-- 🔥 Currently learning **Flutter, Dart & Firebase**
+- 🏥 Experienced in **Hospital Management & ERP Software**
+- 🛒 Interested in **E-commerce & Business Applications**
+- 🧠 Interested in **Software Architecture & System Design**
 - 👯 Open to collaborating on **Open Source Projects**
-- 🚀 Interested in **Software Architecture, ERP & E-commerce Systems**
-- 🧠 Always exploring new technologies and real-world solutions
+- 🚀 Always exploring new technologies and building real-world applications
 - 🍪 Fun fact: **I can provide you cookies for free 😂**
 
 ---
 
 # 🚀 Current Project
 
-<h2 align="center">🛒 Flutter E-commerce Application</h2>
+<h2 align="center">🛒 Flutter E-commerce Mobile Application</h2>
 
 <p align="center">
   <strong>
-    Building a real-world mobile shopping application using Flutter
+    Building a real-world E-commerce Mobile Application using Flutter
   </strong>
 </p>
 
@@ -95,42 +96,6 @@ while building a real-world **E-commerce Application**.
 
 ---
 
-# 📱 Currently Building with Flutter
-
-<p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=flutter,dart,firebase"
-    alt="Flutter Dart Firebase"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white"
-    alt="Flutter"
-  />
-  <img
-    src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"
-    alt="Dart"
-  />
-  <img
-    src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"
-    alt="Firebase"
-  />
-</p>
-
-<p align="center">
-  <strong>
-    🚀 Currently developing a complete E-commerce Mobile Application
-  </strong>
-</p>
-
-<p align="center">
-  Flutter &nbsp;•&nbsp; Dart &nbsp;•&nbsp; Firebase &nbsp;•&nbsp; REST API
-</p>
-
----
-
 # 🛠️ Technology Stack
 
 ## 💻 Backend & Frameworks
@@ -163,7 +128,7 @@ while building a real-world **E-commerce Application**.
 
 ---
 
-## 🌐 Frontend
+## 🌐 Frontend Development
 
 <p align="left">
   <img
@@ -174,12 +139,16 @@ while building a real-world **E-commerce Application**.
 
 <p align="left">
   <img
-    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-    alt="JavaScript"
+    src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+    alt="HTML5"
   />
   <img
-    src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"
-    alt="Vue.js"
+    src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
+    alt="CSS3"
+  />
+  <img
+    src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+    alt="JavaScript"
   />
   <img
     src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"
@@ -190,6 +159,14 @@ while building a real-world **E-commerce Application**.
     alt="Bootstrap"
   />
   <img
+    src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white"
+    alt="Vue.js"
+  />
+  <img
+    src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"
+    alt="Vite"
+  />
+  <img
     src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"
     alt="Tailwind CSS"
   />
@@ -197,12 +174,12 @@ while building a real-world **E-commerce Application**.
 
 ---
 
-## 📱 Mobile Development
+## 📱 Mobile App Development
 
 <p align="left">
   <img
-    src="https://skillicons.dev/icons?i=flutter,dart,firebase"
-    alt="Flutter Dart Firebase"
+    src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio"
+    alt="Mobile App Development"
   />
 </p>
 
@@ -219,11 +196,28 @@ while building a real-world **E-commerce Application**.
     src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"
     alt="Firebase"
   />
+  <img
+    src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white"
+    alt="Android Studio"
+  />
 </p>
+
+### 📱 Mobile Development Focus
+
+- 📱 Flutter Mobile Applications
+- 🎯 Dart Programming
+- 🔥 Firebase
+- 🌐 REST API Integration
+- 🔐 Authentication
+- 🛒 E-commerce Applications
+- 📦 Product & Order Management
+- 💳 Payment Integration
+- 🔔 Push Notifications
+- 📱 Android Application Development
 
 ---
 
-## 🗄️ Databases
+## 🗄️ Database
 
 <p align="left">
 
@@ -239,14 +233,15 @@ while building a real-world **E-commerce Application**.
 
 </p>
 
-### Database Experience
+### 🗃️ Database Experience
 
 - 🗄️ Microsoft SQL Server
 - 🐬 MySQL
 - 🔗 Entity Framework Core
 - ⚡ Query Optimization
 - 📊 Stored Procedures
-- 🔍 Complex Queries & Reporting
+- 🔍 Complex SQL Queries
+- 📈 Reporting & Analytics
 - 🔐 Database Design
 - 🔄 Transaction Management
 
@@ -323,11 +318,10 @@ business management and enterprise software systems**.
 | Area | Technologies |
 |---|---|
 | 💻 Backend | ASP.NET Core, C# |
-| 🌐 Frontend | Vue.js, JavaScript, jQuery, Bootstrap |
-| 📱 Mobile | Flutter, Dart |
-| 🔥 Cloud / Services | Firebase |
-| 🌐 API | REST API |
+| 🌐 Frontend | HTML, CSS, JavaScript, jQuery, Bootstrap, Vue.js |
+| 📱 Mobile | Flutter, Dart, Firebase |
 | 🗄️ Database | SQL Server, MySQL |
+| 🌐 API | REST API |
 | 🔗 ORM | Entity Framework Core |
 | 🏥 Domain | Hospital ERP & Healthcare Software |
 | 🛒 Application | E-commerce Systems |
@@ -370,6 +364,7 @@ business management and enterprise software systems**.
 # 📊 GitHub Stats
 
 <p align="center">
+
   <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Zahir780&theme=github_dark&animation=load"
     alt="GitHub Stats"
@@ -381,6 +376,7 @@ business management and enterprise software systems**.
     alt="Top Languages"
     width="49%"
   />
+
 </p>
 
 ---
